@@ -16,4 +16,4 @@ I own ParallelDijkstra.java.
 My groupmate owns PDNodeWritable.java and PDPreProcess.java.**
 
 **Disclaimer:   
-twitter_dist_x.txt files are provivded in the course.**
+twitter_dist_x.txt files are provided in the course.**
