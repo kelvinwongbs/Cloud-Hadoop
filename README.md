@@ -15,5 +15,4 @@ A writable node structure that stores the adjacency list and other attributes.
 I own ParallelDijkstra.java.   
 My groupmate owns PDNodeWritable.java and PDPreProcess.java.**
 
-**Disclaimer:   
-twitter_dist_x.txt files are provided in the course.**
+The twitter_dist_x.txt files are provided in the course.
